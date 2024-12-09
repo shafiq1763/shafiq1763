@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React and Angular**
 
-- 👨‍💻 All of my projects are available at [https://neoanicom.com/Shafiq-Portfolio/index.html](https://neoanicom.com/Shafiq-Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://neoanicom.com/Shafiq-Portfolio](https://neoanicom.com/Shafiq-Portfolio)
 
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **shafiqhaikal1763@gmail.com**
 
-- 📄 Know about my experiences [https://neoanicom.com/Shafiq-Portfolio/index.html](https://neoanicom.com/Shafiq-Portfolio/index.html)
+- 📄 Know about my experiences [https://neoanicom.com/Shafiq-Portfolio/#resume](https://neoanicom.com/Shafiq-Portfolio/#resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
